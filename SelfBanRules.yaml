@@ -1,1 +1,16 @@
+payload:
+  # 自用黑名单
 
+  # 美团检测
+  - DOMAIN-SUFFIX,data-sdk-uuid-report.dreport.meituan.net  
+  - DOMAIN-SUFFIX,appsec-mobile.meituan.com
+  - DOMAIN-SUFFIX,route-stats.d.meituan.net
+  
+  # 淘宝广告类
+  - DOMAIN-KEYWORD,guide-acs
+  - DOMAIN-KEYWORD,ws-msgacs
+  - DOMAIN-KEYWORD,wvcf
+  - DOMAIN-KEYWORD,trade-acs
+  - DOMAIN-KEYWORD,agoo-report
+  - DOMAIN-SUFFIX,ku.m.taobao.com
+  - DOMAIN-SUFFIX,mdn.alicdn.com 
