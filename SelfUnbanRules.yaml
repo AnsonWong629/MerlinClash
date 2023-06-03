@@ -1,0 +1,5 @@
+payload:
+  # 自用白名单
+
+  # Windows更新
+  - DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
