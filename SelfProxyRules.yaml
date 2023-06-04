@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,appsto.re
   - DOMAIN-SUFFIX,blobstore.apple.com
   - DOMAIN-SUFFIX,digicert.com
-# 一些翻墙官网
+# 翻墙相关
   - DOMAIN-SUFFIX,8888888.one
   - DOMAIN-SUFFIX,delta.winnie.cloud
+  - DOMAIN-SUFFIX,sub.id9.cc
