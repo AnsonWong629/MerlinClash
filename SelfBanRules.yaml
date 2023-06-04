@@ -14,3 +14,42 @@ payload:
   - DOMAIN-KEYWORD,agoo-report
   - DOMAIN-SUFFIX,ku.m.taobao.com
   - DOMAIN-SUFFIX,mdn.alicdn.com 
+  
+  # 知乎 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ZhihuAds/ZhihuAds.yaml
+  - DOMAIN,appcloud2.in.zhihu.com
+  - DOMAIN,mqtt.zhihu.com
+  - DOMAIN,sugar.zhihu.com
+  - IP-CIDR,118.89.204.198/32
+  #DNS BLOCK https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlockHttpDNS/BlockHttpDNS.yaml
+  - DOMAIN,dns.jd.com
+  - DOMAIN,dns.weibo.cn
+  - DOMAIN,dns.weixin.qq.com
+  - DOMAIN,dns.weixin.qq.com.cn
+  - DOMAIN,httpdns-api.aliyuncs.com
+  - DOMAIN,httpdns-sc.aliyuncs.com
+  - DOMAIN,httpdns.alicdn.com
+  - DOMAIN,httpdns.baidu.com
+  - DOMAIN,httpdns.baidubce.com
+  - DOMAIN,httpdns.bilivideo.com
+  - DOMAIN,httpdns.c.cdnhwc2.com
+  - DOMAIN,httpdns.n.netease.com
+  - DOMAIN,httpdns.push.oppomobile.com
+  - DOMAIN,httpdns.volcengineapi.com
+  - DOMAIN,httpsdns.baidu.com
+  - DOMAIN,lofter.httpdns.c.163.com
+  - DOMAIN,music.httpdns.c.163.com
+  - IP-CIDR,101.124.19.122/32
+  - IP-CIDR,103.224.222.208/32
+  - IP-CIDR,115.236.121.195/32
+  - IP-CIDR,115.236.121.51/32
+  - IP-CIDR,123.151.54.50/32
+  - IP-CIDR,186.76.76.200/32
+  - IP-CIDR,203.107.1.0/24
+  - IP-CIDR,39.97.128.148/32
+  - IP-CIDR,39.97.130.51/32
+  - IP-CIDR,42.187.182.106/32
+  - IP-CIDR,42.187.182.123/32
+  - IP-CIDR,42.187.184.154/32
+  - IP-CIDR,42.81.232.18/32
+  - IP-CIDR,59.111.239.61/32
+  - IP-CIDR,59.111.239.62/32
