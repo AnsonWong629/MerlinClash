@@ -128,3 +128,23 @@ payload:
   - DOMAIN-SUFFIX,wuyou189.com
   - DOMAIN-SUFFIX,ycy100.cn
   - DOMAIN-SUFFIX,yichuangyun.com.cn
+  
+# GameDownloadCN
+# https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Clash/Game/GameDownloadCN/GameDownloadCN.yaml
+  - DOMAIN,assets1.xboxlive.cn
+  - DOMAIN,assets2.xboxlive.cn
+  - DOMAIN,cdn-ali.content.steamchina.com
+  - DOMAIN,cdn-qc.content.steamchina.com
+  - DOMAIN,cdn-ws.content.steamchina.com
+  - DOMAIN,dl.delivery.mp.microsoft.com
+  - DOMAIN,dl.steam.clngaa.com
+  - DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
+  - DOMAIN,st.dl.bscstorage.net
+  - DOMAIN,st.dl.eccdnx.com
+  - DOMAIN,steampipe.steamcontent.tnkjmec.com
+  - DOMAIN,tlu.dl.delivery.mp.microsoft.com
+  - DOMAIN,trts.baishancdnx.cn
+  - DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
+  - DOMAIN,xz.pphimalayanrt.com
+  - DOMAIN-SUFFIX,pdl.wow.battlenet.com.cn
+  
