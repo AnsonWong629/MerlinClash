@@ -5,7 +5,13 @@ payload:
   - DOMAIN-SUFFIX,data-sdk-uuid-report.dreport.meituan.net  
   - DOMAIN-SUFFIX,appsec-mobile.meituan.com
   - DOMAIN-SUFFIX,route-stats.d.meituan.net
-  
+  # 微信相关
+
+  - DOMAIN-SUFFIX,mjd.com
+  - DOMAIN-SUFFIX,fd.3.cn
+  - DOMAIN-SUFFIX,jvod.300hu.com
+  - DOMAIN-KEYWORD,360buyimg
+
   # 淘宝广告类
   - DOMAIN-KEYWORD,guide-acs
   - DOMAIN-KEYWORD,ws-msgacs
