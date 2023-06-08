@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,fd.3.cn
   - DOMAIN-SUFFIX,jvod.300hu.com
   - DOMAIN-KEYWORD,360buyimg
+  - DOMAIN-SUFFIX,bc.weixin.qq.com
 
   # 淘宝广告类
   - DOMAIN-KEYWORD,guide-acs
