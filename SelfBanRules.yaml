@@ -12,6 +12,8 @@ payload:
   - DOMAIN-SUFFIX,jvod.300hu.com
   - DOMAIN-KEYWORD,360buyimg
   - DOMAIN-SUFFIX,bc.weixin.qq.com
+  - DOMAIN-SUFFIX,w.webank.com
+  - DOMAIN-SUFFIX,w.welidaimkt.com
 
   # 淘宝广告类
   - DOMAIN-KEYWORD,guide-acs
