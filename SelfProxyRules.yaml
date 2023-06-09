@@ -22,3 +22,28 @@ payload:
   - DOMAIN-SUFFIX,sub.id9.cc
 # Adobe AI
   - DOMAIN-KEYWORD,sensei
+  
+# Bing相关
+  - DOMAIN-SUFFIX,edge.microsoft.com
+  - DOMAIN-SUFFIX,www.bingapis.com
+  - DOMAIN-SUFFIX,www.bing.com
+  - DOMAIN-SUFFIX,cn.bing.com
+  - DOMAIN-SUFFIX,sb.scorecardresearch.com
+  - DOMAIN-SUFFIX,login.live.com
+  - DOMAIN-SUFFIX,config.edge.skype.com
+  - DOMAIN-SUFFIX,c.bing.com
+  - DOMAIN-SUFFIX,functional.events.data.microsoft.com
+  - DOMAIN-SUFFIX,c.msn.com
+  - DOMAIN-SUFFIX,api.msn.com
+  - DOMAIN-SUFFIX,assets.msn.com
+  - DOMAIN-SUFFIX,img-s-msn-com.akamaized.net
+  - DOMAIN-SUFFIX,th.bing.com
+  - DOMAIN-SUFFIX,www.clarity.ms
+  - DOMAIN-SUFFIX,aefd.nelreports.net
+  - DOMAIN-SUFFIX,srtb.msn.com
+  - DOMAIN-SUFFIX,r.clarity.ms
+  - DOMAIN-SUFFIX,login.microsoftonline.com,storage.live.com
+  - DOMAIN-SUFFIX,r.bing.com
+  - DOMAIN-SUFFIX,tsl.cn.mm.bing.net
+  - DOMAIN-SUFFIX,www2.bing.com
+  - DOMAIN-SUFFIX,substrate.office.com
