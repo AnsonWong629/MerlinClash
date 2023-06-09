@@ -16,6 +16,17 @@ payload:
   - DOMAIN-SUFFIX,ripd.webankcdn.net
   - DOMAIN-SUFFIX,trace.webank.com
   - DOMAIN-SUFFIX,w.welidaimkt.com
+  # Adobe 检测
+  - DOMAIN-SUFFIX,crs.cr.adobe.com
+  - DOMAIN-SUFFIX,www.photoshop.com
+  - DOMAIN-SUFFIX,cc-cdn.adobe.com
+  - DOMAIN-SUFFIX,photos.adobe.io
+  - DOMAIN-SUFFIX,cc-api-data.adobe.io
+  - DOMAIN-SUFFIX,lcs-cops.adobe.io
+  - DOMAIN-SUFFIX,cai-splunk-proxy.adobe.io
+  - DOMAIN-SUFFIX,ic.adobe.io
+  - DOMAIN-SUFFIX,dyzt55url8.adobe.io
+  - DOMAIN-SUFFIX,gw8gfjbs05.adobe.io
 
   # 淘宝广告类
   - DOMAIN-KEYWORD,guide-acs
