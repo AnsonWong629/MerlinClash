@@ -6,16 +6,15 @@ payload:
   - DOMAIN-SUFFIX,appsec-mobile.meituan.com
   - DOMAIN-SUFFIX,route-stats.d.meituan.net
   # 微信相关
-
+  - DOMAIN-KEYWORD,webank
+  - DOMAIN-KEYWORD,welidai
+  - DOMAIN-KEYWORD,360buyimg
   - DOMAIN-SUFFIX,mjd.com
   - DOMAIN-SUFFIX,fd.3.cn
   - DOMAIN-SUFFIX,jvod.300hu.com
-  - DOMAIN-KEYWORD,360buyimg
   - DOMAIN-SUFFIX,bc.weixin.qq.com
   - DOMAIN-SUFFIX,ripd.webankcdn.net
   - DOMAIN-SUFFIX,trace.webank.com
-  - DOMAIN-KEYWORD,webank
-  - DOMAIN-KEYWORD,welidai
   - DOMAIN-SUFFIX,w.welidaimkt.com
 
   # 淘宝广告类
