@@ -12,6 +12,8 @@ payload:
   - DOMAIN-SUFFIX,jvod.300hu.com
   - DOMAIN-KEYWORD,360buyimg
   - DOMAIN-SUFFIX,bc.weixin.qq.com
+  - DOMAIN-SUFFIX,ripd.webankcdn.net
+  - DOMAIN-SUFFIX,trace.webank.com
   - DOMAIN-KEYWORD,webank
   - DOMAIN-KEYWORD,welidai
   - DOMAIN-SUFFIX,w.welidaimkt.com
