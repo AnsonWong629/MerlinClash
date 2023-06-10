@@ -10,14 +10,14 @@ payload:
   # 美团外卖
   - DOMAIN-SUFFIX,s3plus.meituan.net
   - DOMAIN-SUFFIX,logan-rtl.dreportmeituan.net
+  - DOMAIN-KEYWORD,dreportmeituan.net
   - DOMAIN-SUFFIX,dreport.meituan.net
   - DOMAIN-SUFFIX,marketing.waimai.meituan.com
   - DOMAIN-SUFFIX,promotion.waimai.meituan.com
-157.148.47.204
   # 微信相关
-  - DOMAIN-KEYWORD,webank
-  - DOMAIN-KEYWORD,welidai
-  - DOMAIN-KEYWORD,360buyimg
+  - DOMAIN-KEYWORD,webankcom
+  - DOMAIN-KEYWORD,welidai.com
+  - DOMAIN-KEYWORD,360buyimgcom
   - DOMAIN-SUFFIX,mjd.com
   - DOMAIN-SUFFIX,fd.3.cn
   - DOMAIN-SUFFIX,jvod.300hu.com
