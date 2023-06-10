@@ -1,10 +1,19 @@
 payload:
   # 自用黑名单
-
+  # 反诈
+  - IP-CIDR,157.148.47.204
   # 美团检测
   - DOMAIN-SUFFIX,data-sdk-uuid-report.dreport.meituan.net  
   - DOMAIN-SUFFIX,appsec-mobile.meituan.com
   - DOMAIN-SUFFIX,route-stats.d.meituan.net
+  
+  # 美团外卖
+  - DOMAIN-SUFFIX,s3plus.meituan.net
+  - DOMAIN-SUFFIX,logan-rtl.dreportmeituan.net
+  - DOMAIN-SUFFIX,dreport.meituan.net
+  - DOMAIN-SUFFIX,marketing.waimai.meituan.com
+  - DOMAIN-SUFFIX,promotion.waimai.meituan.com
+157.148.47.204
   # 微信相关
   - DOMAIN-KEYWORD,webank
   - DOMAIN-KEYWORD,welidai
