@@ -20,6 +20,9 @@ payload:
   
   # 雪球
   - DOMAIN-SUFFIX,xavatar.imedao.com
+  - DOMAIN-SUFFIX,xqimg.imedao.com
+  - DOMAIN-SUFFIX,assets.imedao.com
+  - DOMAIN-KEYWORD,imedao.com
   
   # 美团外卖
   - DOMAIN-SUFFIX,s3plus.meituan.net
@@ -29,7 +32,7 @@ payload:
   - DOMAIN-SUFFIX,marketing.waimai.meituan.com
   - DOMAIN-SUFFIX,promotion.waimai.meituan.com
   # 微信相关
-  - DOMAIN-KEYWORD,webankcom
+  - DOMAIN-KEYWORD,webank.com
   - DOMAIN-KEYWORD,welidai.com
   - DOMAIN-KEYWORD,360buyimgcom
   - DOMAIN-SUFFIX,mjd.com
