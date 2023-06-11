@@ -3,6 +3,9 @@ payload:
 
   # Windows更新
   - DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
+  
+  # Bing
+  - DOMAIN-SUFFIX,cn.bing.com
   # 游戏
   - DOMAIN-SUFFIX,game.brawlstarsgame.com
   - DOMAIN-KEYWORD,brawlstars
