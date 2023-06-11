@@ -7,6 +7,18 @@ payload:
   - DOMAIN-SUFFIX,appsec-mobile.meituan.com
   - DOMAIN-SUFFIX,route-stats.d.meituan.net
   
+  # 美团首页  230611
+  - DOMAIN-SUFFIX,lx.meituan.net
+  - DOMAIN-SUFFIX,cube.meituan.ney
+  - DOMAIN-SUFFIX, ihotel.meituan.com
+  - DOMAIN-SUFFIX,flowplus.meituan.net
+  - DOMAIN-SUFFIX, tte.meituan.com
+  - DOMAIN-SUFFIX, mrn.meituan.net
+  - DOMAIN-SUFFIX, ddplus.meituan.net
+  - DOMAIN-SUFFIX, mss.sankuai.com
+  - DOMAIN-SUFFIX, catdot.dianping.com
+  
+  
   # 美团外卖
   - DOMAIN-SUFFIX,s3plus.meituan.net
   - DOMAIN-SUFFIX,logan-rtl.dreportmeituan.net
