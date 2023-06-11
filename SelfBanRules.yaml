@@ -19,10 +19,9 @@ payload:
   - DOMAIN-SUFFIX,catdot.dianping.com
   
   # 雪球
-  - DOMAIN-SUFFIX,xavatar.imedao.com
-  - DOMAIN-SUFFIX,xqimg.imedao.com
+
   - DOMAIN-SUFFIX,assets.imedao.com
-  - DOMAIN-KEYWORD,imedao.com
+
   
   # 美团外卖
   - DOMAIN-SUFFIX,s3plus.meituan.net
