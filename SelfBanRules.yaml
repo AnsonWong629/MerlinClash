@@ -14,7 +14,7 @@ payload:
   - DOMAIN-SUFFIX,flowplus.meituan.net
   - DOMAIN-SUFFIX,tte.meituan.com
   - DOMAIN-SUFFIX,mrn.meituan.net
-  - DOMAIN-SUFFIX,ddplus.meituan.net
+  #拼好饭详情页- DOMAIN-SUFFIX,ddplus.meituan.net
   - DOMAIN-SUFFIX,mss.sankuai.com
   - DOMAIN-SUFFIX,catdot.dianping.com
   
