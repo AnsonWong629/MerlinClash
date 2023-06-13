@@ -56,7 +56,7 @@ payload:
   # 淘宝广告类
   - DOMAIN-KEYWORD,guide-acs
   - DOMAIN-KEYWORD,ws-msgacs
-  - DOMAIN-KEYWORD,wvcf
+  #- DOMAIN-KEYWORD,wvcf 1688图片无法显示？
   - DOMAIN-KEYWORD,trade-acs
   - DOMAIN-KEYWORD,agoo-report
   - DOMAIN-SUFFIX,ku.m.taobao.com
