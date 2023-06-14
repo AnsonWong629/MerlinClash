@@ -8,7 +8,7 @@ payload:
   - DOMAIN-SUFFIX,appsec-mobile.meituan.com
   - DOMAIN-SUFFIX,route-stats.d.meituan.net
   
-# 美团首页230611
+# 美团首页
   - DOMAIN-SUFFIX,lx.meituan.net
   - DOMAIN-SUFFIX,cube.meituan.ney
   - DOMAIN-SUFFIX,ihotel.meituan.com
