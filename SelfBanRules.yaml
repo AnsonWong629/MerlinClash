@@ -23,7 +23,6 @@ payload:
 
   - DOMAIN-SUFFIX,assets.imedao.com
 
-  
   # 美团外卖
   - DOMAIN-SUFFIX,s3plus.meituan.net
   - DOMAIN-SUFFIX,logan-rtl.dreportmeituan.net
