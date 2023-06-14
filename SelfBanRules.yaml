@@ -2,7 +2,7 @@ payload:
 
 # 自用黑名单
 # 反诈
-  - IP-CIDR,157.148.47.204
+  - IP-CIDR,157.148.47.204/32
 # 美团检测
   - DOMAIN-SUFFIX,data-sdk-uuid-report.dreport.meituan.net  
   - DOMAIN-SUFFIX,appsec-mobile.meituan.com
