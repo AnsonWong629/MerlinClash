@@ -27,6 +27,12 @@ payload:
   - DOMAIN-SUFFIX,pscdn.co
   - DOMAIN-SUFFIX,scdn.co
   - DOMAIN-SUFFIX,spoti.fi
+  - DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
+  - DOMAIN-KEYWORD,-spotify-
+  - DOMAIN-KEYWORD,spotify-com
+  - DOMAIN-KEYWORD,audio-ak-spotify-com
+  
+  
   
 # Bing相关
   - DOMAIN-SUFFIX,edge.microsoft.com
