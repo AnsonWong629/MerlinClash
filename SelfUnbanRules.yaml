@@ -20,6 +20,9 @@ payload:
   - DOMAIN-SUFFIX,hbrt.adobe.com
   - DOMAIN-SUFFIX,www.adobe.com
 
+  - DOMAIN-SUFFIX,spotifycdn.com
+  - DOMAIN-SUFFIX,spotifycdn.net
+
   # ChinaUnicom
   #  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaTelecom/ChinaTelecom.yaml
   - DOMAIN-SUFFIX,10010.cn
