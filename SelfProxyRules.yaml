@@ -22,6 +22,11 @@ payload:
   - DOMAIN-SUFFIX,sub.id9.cc
 # Adobe AI
   - DOMAIN-KEYWORD,sensei
+
+# Spotify 相关 
+  - DOMAIN-SUFFIX,pscdn.co
+  - DOMAIN-SUFFIX,scdn.co
+  - DOMAIN-SUFFIX,spoti.fi
   
 # Bing相关
   - DOMAIN-SUFFIX,edge.microsoft.com
