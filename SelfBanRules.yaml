@@ -2,21 +2,20 @@ payload:
 
 # 自用黑名单
 # 反诈
-  
   - IP-CIDR,157.148.47.204
 # 美团检测
   - DOMAIN-SUFFIX,data-sdk-uuid-report.dreport.meituan.net  
   - DOMAIN-SUFFIX,appsec-mobile.meituan.com
   - DOMAIN-SUFFIX,route-stats.d.meituan.net
   
-# 美团首页  230611
+# 美团首页230611
   - DOMAIN-SUFFIX,lx.meituan.net
   - DOMAIN-SUFFIX,cube.meituan.ney
   - DOMAIN-SUFFIX,ihotel.meituan.com
   - DOMAIN-SUFFIX,flowplus.meituan.net
   - DOMAIN-SUFFIX,tte.meituan.com
   - DOMAIN-SUFFIX,mrn.meituan.net
-# 拼好饭详情页- DOMAIN-SUFFIX,ddplus.meituan.net
+# 拼好饭详情页
   - DOMAIN-SUFFIX,mss.sankuai.com
   - DOMAIN-SUFFIX,catdot.dianping.com
   
@@ -43,7 +42,7 @@ payload:
   - DOMAIN-SUFFIX,ripd.webankcdn.net
   - DOMAIN-SUFFIX,trace.webank.com
   - DOMAIN-SUFFIX,w.welidaimkt.com
-# Adobe 检测
+# Adobe检测
   - DOMAIN-SUFFIX,crs.cr.adobe.com
   - DOMAIN-SUFFIX,www.photoshop.com
   - DOMAIN-SUFFIX,cc-cdn.adobe.com
@@ -58,18 +57,16 @@ payload:
 # 淘宝广告类
   - DOMAIN-KEYWORD,guide-acs
   - DOMAIN-KEYWORD,ws-msgacs
-#- DOMAIN-KEYWORD,wvcf 1688图片无法显示？
   - DOMAIN-KEYWORD,trade-acs
   - DOMAIN-KEYWORD,agoo-report
   - DOMAIN-SUFFIX,ku.m.taobao.com
   - DOMAIN-SUFFIX,mdn.alicdn.com 
   
-# 知乎 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ZhihuAds/ZhihuAds.yaml
-  - DOMAIN,appcloud2.in.zhihu.com
+# 知乎
   - DOMAIN,mqtt.zhihu.com
   - DOMAIN,sugar.zhihu.com
   - IP-CIDR,118.89.204.198/32
-# DNS BLOCK https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BlockHttpDNS/BlockHttpDNS.yaml
+# DNSBLOCK
   - DOMAIN,dns.jd.com
   - DOMAIN,dns.weibo.cn
   - DOMAIN,dns.weixin.qq.com
