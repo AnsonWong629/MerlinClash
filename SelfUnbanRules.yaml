@@ -25,7 +25,11 @@ payload:
   - DOMAIN-SUFFIX,dealer.spotify.com
   - DOMAIN-SUFFIX,login5.spotify.com
   - DOMAIN-SUFFIX,gae2-spclient.spotify.com
-  - DOMAIN-SUFFIX,spclient.wg.spotify.com
+  - DOMAIN-SUFFIX,ap-gue1.spotify.com
+  - DOMAIN-SUFFIX,ap-gae2.spotify.com
+  - DOMAIN-KEYWORD,gae2
+  - DOMAIN-KEYWORD,gue1
+  
 
   # ChinaUnicom
   #  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaTelecom/ChinaTelecom.yaml
