@@ -1,4 +1,4 @@
-  - DOMAIN,audio4-ak-spotify-com.akamaized.net
+payload:
   - DOMAIN,heads-ak-spotify-com.akamaized.net
   - DOMAIN,spotify.com.edgesuite.net
   - DOMAIN,spotify.map.fastly.net
@@ -26,3 +26,7 @@
   - DOMAIN-KEYWORD,spotify.com
   - IP-CIDR,104.154.127.126/32
   - IP-CIDR,35.186.224.47/32
+  - DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
+  - DOMAIN-KEYWORD,spotify-com
+  - DOMAIN-KEYWORD,audio-ak-spotify-com
+  
