@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,accounts.spotify.com   
   - DOMAIN-SUFFIX,accounts.scdn.co
   - DOMAIN-SUFFIX,encore.scdn.co
+  - DOMAIN-SUFFIX,i.scdn.co
   - DOMAIN-KEYWORD,gae2
   - DOMAIN-KEYWORD,gue1
   
