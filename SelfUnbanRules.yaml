@@ -20,12 +20,6 @@ payload:
   - DOMAIN-SUFFIX,hbrt.adobe.com
   - DOMAIN-SUFFIX,www.adobe.com
 
-
-  - DOMAIN-SUFFIX,gae2-spclient.spotify.com
-  - DOMAIN-SUFFIX,ap-gue1.spotify.com
-  - DOMAIN-SUFFIX,ap-gae2.spotify.com
-  - DOMAIN-KEYWORD,gae2
-  - DOMAIN-KEYWORD,gue1
   
 
   # ChinaUnicom
