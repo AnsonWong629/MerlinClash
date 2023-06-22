@@ -23,7 +23,11 @@ payload:
 # Adobe AI
   - DOMAIN-KEYWORD,sensei
 
-  
+
+  - DOMAIN-SUFFIX,dealerspotify.com
+  - DOMAIN-SUFFIX,clienttoken.spotify.com
+  - DOMAIN-SUFFIX,spclient.wg.spotify.com
+  - DOMAIN-SUFFIX,spclient.wg.spotify.com
   - DOMAIN,audio4-ak-spotify-com.akamaized.net
   - DOMAIN,heads-ak-spotify-com.akamaized.net
   - DOMAIN,spotify.com.edgesuite.net
