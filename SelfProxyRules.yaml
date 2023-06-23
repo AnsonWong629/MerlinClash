@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,8888888.one
   - DOMAIN-SUFFIX,delta.winnie.cloud
   - DOMAIN-SUFFIX,sub.id9.cc
+  - DOMAIN-SUFFIX,as.saururus.ink
 # Adobe AI
   - DOMAIN-KEYWORD,sensei
 
