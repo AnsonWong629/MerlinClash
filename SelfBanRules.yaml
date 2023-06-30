@@ -151,14 +151,9 @@ payload:
   - DOMAIN-SUFFIX,sf6-be-pack.pglstatp-toutiao.com
   - DOMAIN-SUFFIX,v3-be-pack.pglstatp-toutiao.com
   - DOMAIN-SUFFIX,v6-be-pack.pglstatp-toutiao.com
-255.255.255.255	broadcasthost
-::1             localhost
-#common
-  - DOMAIN-SUFFIX,localhost
-#android
-::1             ip6-localhost
+
 #miwifi
-  - DOMAIN-SUFFIX,XiaoQiang
+  - DOMAIN-KEYWORD,XiaoQiang
 
 #Flash
   - DOMAIN-SUFFIX,geo2.adobe.com
