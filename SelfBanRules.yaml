@@ -100,7 +100,7 @@ payload:
   - IP-CIDR,59.111.239.62/32
 
   #version: 202211242035
-@direct/1os
+
 #amap
   - DOMAIN-SUFFIX,optimus-ads.amap.com
 #快手广告
@@ -159,7 +159,7 @@ payload:
 ::1             ip6-localhost
 #miwifi
   - DOMAIN-SUFFIX,XiaoQiang
-@direct/official
+
 #Flash
   - DOMAIN-SUFFIX,geo2.adobe.com
   - DOMAIN-SUFFIX,www.2144.cn
@@ -493,7 +493,7 @@ payload:
   - DOMAIN-SUFFIX,ope.tanx.com
   - DOMAIN-SUFFIX,rdstat.tanx.com
   - DOMAIN-SUFFIX,toruk.tanx.com
-@cps-taobao-simba
+
   - DOMAIN-SUFFIX,click.mz.simba.taobao.com
   - DOMAIN-SUFFIX,click.tz.simba.taobao.com
   - DOMAIN-SUFFIX,dsp.simba.taobao.com
@@ -857,7 +857,7 @@ payload:
   - DOMAIN-SUFFIX,zvs2.cnzz.com
 #cnzz.net
   - DOMAIN-SUFFIX,pcookie.cnzz.net
-@cps-shopping
+
   - DOMAIN-SUFFIX,aos.prf.hn
   - DOMAIN-SUFFIX,click.lergao.com
   - DOMAIN-SUFFIX,click.linktech.cn
@@ -1395,7 +1395,7 @@ payload:
   - DOMAIN-SUFFIX,dai.shuzilm.cn
   - DOMAIN-SUFFIX,stream.shuzilm.cn
   - DOMAIN-SUFFIX,www.shuzilm.cn
-@cps-taobao-click
+
   - DOMAIN-SUFFIX,click.simba.taobao.com
   - DOMAIN-SUFFIX,ju.taobao.com
   - DOMAIN-SUFFIX,tejia.taobao.com
@@ -1407,26 +1407,26 @@ payload:
   - DOMAIN-SUFFIX,s.click.tmall.com
   - DOMAIN-SUFFIX,temai.m.taobao.com
   - DOMAIN-SUFFIX,jx.tmall.com
-@cps-jd
+
   - DOMAIN-SUFFIX,ccc.x.jd.com
   - DOMAIN-SUFFIX,click.jr.jd.com
   - DOMAIN-SUFFIX,jrclick.jd.com
   - DOMAIN-SUFFIX,stat.m.jd.com
-@errorpage/click
+
   - DOMAIN-SUFFIX,marketres.feidee.com
   - DOMAIN-SUFFIX,app.shandjj.com
   - DOMAIN-SUFFIX,clkde.tradedoubler.com
   - DOMAIN-SUFFIX,dorado.xiaojukeji.com
   - DOMAIN-SUFFIX,activity.tuiapple.com
   - DOMAIN-SUFFIX,apple.pvxt.net
-@errorpage/weixin
+
   - DOMAIN-SUFFIX,vzan.com
   - DOMAIN-SUFFIX,wx.shunliandongli.com
 #www.youzan.com
   - DOMAIN-SUFFIX,tj.koudaitong.com
 #yy
   - DOMAIN-SUFFIX,ppiy.v5.yy.com
-@errorpage/inside
+
   - DOMAIN-SUFFIX,activity.m.duiba.com.cn
   - DOMAIN-SUFFIX,embedlog.duiba.com.cn
   - DOMAIN-SUFFIX,yun.duiba.com.cn
@@ -1434,13 +1434,12 @@ payload:
   - DOMAIN-SUFFIX,api.tatagou.com.cn
   - DOMAIN-SUFFIX,log.ttjx.tatagou.com.cn
   - DOMAIN-SUFFIX,ttg.cdn.suanzi.cn
-  - DOMAIN-SUFFIX,s.youzhuanhua.com
-@errorpage/daohang
+
   - DOMAIN-SUFFIX,www.2345.com
   - DOMAIN-SUFFIX,www.hao123.com
   - DOMAIN-SUFFIX,m.hao123.com
   - DOMAIN-SUFFIX,yeah.qq.com
-@errorpage/sns
+
   - DOMAIN-SUFFIX,www.saxmcu.cn
   - DOMAIN-SUFFIX,ndyjs.xjtu.edu.cn
   - DOMAIN-SUFFIX,www.cnys.com
@@ -1469,7 +1468,7 @@ payload:
   - DOMAIN-SUFFIX,lp.tantanapp.com
   - DOMAIN-SUFFIX,apk-ssl.tancdn.com
   - DOMAIN-SUFFIX,tantanapp.com
-@down
+
 #down-2345
   - DOMAIN-SUFFIX,dl.2345.com
   - DOMAIN-SUFFIX,download.2345.com
@@ -1501,7 +1500,7 @@ payload:
   - DOMAIN-SUFFIX,c.gj.qq.com
   - DOMAIN-SUFFIX,t.sj.qq.com
   - DOMAIN-SUFFIX,ws.sj.qq.com
-@down/virus
+
 #dabaicai
   - DOMAIN-SUFFIX,www.winbaicai.com
   - DOMAIN-SUFFIX,down.winbaicai.com
@@ -1518,7 +1517,7 @@ payload:
   - DOMAIN-SUFFIX,mackeeper.com
   - DOMAIN-SUFFIX,mackeeperapp.mackeeper.com
   - DOMAIN-SUFFIX,static.mackeeper.com
-@android
+
 #ali-yunos
   - DOMAIN-SUFFIX,osfota.cdn.aliyun.com
   - DOMAIN-SUFFIX,osupdateservice.yunos.com
@@ -1659,7 +1658,7 @@ payload:
   - DOMAIN-SUFFIX,data.ads.oppomobile.com
 #xgimi
   - DOMAIN-SUFFIX,analytics.xgimi.com
-@app-browser
+
 #http://app.2345.com/mob.htm
   - DOMAIN-SUFFIX,houtai.2345.com
 #http://browser.lenovo.com/
@@ -1787,7 +1786,7 @@ payload:
 #yeshitv.com
   - DOMAIN-SUFFIX,ad.yeshitv.com
 #http://www.hdplive.net/
-@cibn
+
 #cibntv.net
 #http://tv.sohu.com/ott/sohutv/
   - DOMAIN-SUFFIX,agn.aty.cp45.ott.cibntv.net
@@ -5042,7 +5041,7 @@ payload:
   - DOMAIN-SUFFIX,zzy1.mipujia.com
   - DOMAIN-SUFFIX,zzy1.weibopie.com
   - DOMAIN-SUFFIX,zzys.haha5.cn
-@site-us
+
 #abcnews
   - DOMAIN-SUFFIX,adsatt.abcnews.starwave.com
   - DOMAIN-SUFFIX,adsatt.disney.starwave.com
@@ -5262,7 +5261,7 @@ payload:
   - DOMAIN-SUFFIX,snap.snapmobile.asia
   - DOMAIN-SUFFIX,static.snapmobile.asia
   - DOMAIN-SUFFIX,adx.adxglobal.com
-@hijack/operators
+
 #10000
 #10010
   - DOMAIN-SUFFIX,lndnserror6.wo.com.cn
@@ -5270,19 +5269,18 @@ payload:
   - DOMAIN-SUFFIX,hbdnserror7.wo.com.cn
 #10086
   - DOMAIN-SUFFIX,hivedata.cc
-@hijack/apk-down
-@hijack/domain
+
   - DOMAIN-SUFFIX,offline-adv.oray.com
-@hijack/homepage
+
   - DOMAIN-SUFFIX,hao.qquu8.com
   - DOMAIN-SUFFIX,hao549.com
   - DOMAIN-SUFFIX,www.i1236.net
   - DOMAIN-SUFFIX,hk.jtsh123.com
   - DOMAIN-SUFFIX,hao.7654.com
-@hijack/netbar
+
   - DOMAIN-SUFFIX,p.sdu8cvc.com
   - DOMAIN-SUFFIX,n.a.mosenni.com
-@hijack/wifi
+
   - DOMAIN-SUFFIX,c.minisplat.cn
   - DOMAIN-SUFFIX,c1.minisplat.cn
   - DOMAIN-SUFFIX,l.minisplat.cn
@@ -5365,10 +5363,9 @@ payload:
   - DOMAIN-SUFFIX,www.coinhive.com
   - DOMAIN-SUFFIX,activity.clotfun.xyz
   - DOMAIN-SUFFIX,pic.bdyxzx.com
-@hijack/x-router
+
   - DOMAIN-SUFFIX,info.yitsoftware.com
-@popup
-@union-cn
+
 #163
   - DOMAIN-SUFFIX,adgeo.163.com
   - DOMAIN-SUFFIX,iad.g.163.com
@@ -5486,7 +5483,7 @@ payload:
   - DOMAIN-SUFFIX,duapps.com
   - DOMAIN-SUFFIX,ad.duapps.com
   - DOMAIN-SUFFIX,api.mobula.sdk.duapps.com
-@union-cn-plus
+
 #001union
   - DOMAIN-SUFFIX,jump.001union.com
   - DOMAIN-SUFFIX,jump.baidu.001union.com
@@ -6354,7 +6351,7 @@ payload:
   - DOMAIN-SUFFIX,www.zhidian3g.cn
 #zhiziyun.com
   - DOMAIN-SUFFIX,cm.zhiziyun.com
-@union-en
+
 #ad-survey.com
   - DOMAIN-SUFFIX,sspservice.ad-survey.com
   - DOMAIN-SUFFIX,tracking.ad-survey.com
@@ -6942,7 +6939,7 @@ payload:
   - DOMAIN-SUFFIX,adspaces.ero-advertising.com
   - DOMAIN-SUFFIX,api-secure.solvemedia.com
   - DOMAIN-SUFFIX,c.adsco.re
-@site-foregin/adult
+
 #91porn.com
   - DOMAIN-SUFFIX,fans.bestvogue.com
 #hk01.com
@@ -6950,20 +6947,20 @@ payload:
 #pronhub.com
   - DOMAIN-SUFFIX,rad.reporo.net
   - DOMAIN-SUFFIX,ads.traffichunt.com
-@site-foregin/news
+
 #m.cn.rfi.fr
   - DOMAIN-SUFFIX,nexus.ensighten.com
 #m.cn.nytimes.com
   - DOMAIN-SUFFIX,beacon.krxd.net
   - DOMAIN-SUFFIX,cdn.krxd.net
-@site-foregin/sns
+
 #wp.com
   - DOMAIN-SUFFIX,stats.wp.com
-@site-foregin/tools
+
 #pingdom
   - DOMAIN-SUFFIX,rum-collector.pingdom.net
   - DOMAIN-SUFFIX,rum-static.pingdom.net
-@site-foregin/down
+
 #mac-torrent-download.net
   - DOMAIN-SUFFIX,inclk.com
   - DOMAIN-SUFFIX,p215223.inclk.com
@@ -6985,12 +6982,12 @@ payload:
   - DOMAIN-SUFFIX,static.addtoany.com
   - DOMAIN-SUFFIX,pl14369502.puserving.com
   - DOMAIN-SUFFIX,ie8eamus.com
-@site-foregin/union
+
 #aol-cn.engadget.com
   - DOMAIN-SUFFIX,adinfo.aol.com
   - DOMAIN-SUFFIX,cdn.at.atwola.com
   - DOMAIN-SUFFIX,cdn.atwola.com
-@union-jp
+
 #ad-stir
   - DOMAIN-SUFFIX,ad-stir.com
   - DOMAIN-SUFFIX,ad.ad-stir.com
@@ -7055,11 +7052,11 @@ payload:
   - DOMAIN-SUFFIX,api.nend.net
   - DOMAIN-SUFFIX,ad4.nend.net
   - DOMAIN-SUFFIX,static-interactive-api.nend.net
-@union-india
+
 #yengo
   - DOMAIN-SUFFIX,st.yengo.com
   - DOMAIN-SUFFIX,www.yengo.com
-@union-ru
+
 #adriver.ru
   - DOMAIN-SUFFIX,ad.adriver.ru
   - DOMAIN-SUFFIX,content.adriver.ru
