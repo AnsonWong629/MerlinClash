@@ -19,9 +19,6 @@ payload:
   - DOMAIN-SUFFIX,mss.sankuai.com
   - DOMAIN-SUFFIX,catdot.dianping.com
   
-# 雪球
-
-  - DOMAIN-SUFFIX,assets.imedao.com
 
   # 美团外卖
   #- DOMAIN-SUFFIX,s3plus.meituan.net 红包页面打不开
