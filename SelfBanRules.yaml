@@ -51,7 +51,7 @@ payload:
   - DOMAIN-SUFFIX,gw8gfjbs05.adobe.io
 
 # 淘宝广告类
-  - DOMAIN-KEYWORD,guide-acs
+
   - DOMAIN-KEYWORD,ws-msgacs
   - DOMAIN-KEYWORD,trade-acs
   - DOMAIN-KEYWORD,agoo-report
@@ -7742,7 +7742,7 @@ payload:
   - DOMAIN-SUFFIX,base.api.my7v.com
 #tcl
   - DOMAIN-SUFFIX,ads.huan.tv
-  - DOMAIN-SUFFIX,amdc.m.taobao.com
+
   - DOMAIN-SUFFIX,tclicon5.ifmis.huan.tv
 #meituan
   - DOMAIN-SUFFIX,dreport.meituan.net
