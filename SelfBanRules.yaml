@@ -7,26 +7,10 @@ payload:
   - DOMAIN-SUFFIX,data-sdk-uuid-report.dreport.meituan.net  
   - DOMAIN-SUFFIX,appsec-mobile.meituan.com
   - DOMAIN-SUFFIX,route-stats.d.meituan.net
-  
-# 美团首页
-  - DOMAIN-SUFFIX,lx.meituan.net
-  - DOMAIN-SUFFIX,cube.meituan.ney
-  - DOMAIN-SUFFIX,ihotel.meituan.com
-  - DOMAIN-SUFFIX,flowplus.meituan.net
-  - DOMAIN-SUFFIX,tte.meituan.com
-  - DOMAIN-SUFFIX,mrn.meituan.net
-# 拼好饭详情页
-  - DOMAIN-SUFFIX,mss.sankuai.com
-  - DOMAIN-SUFFIX,catdot.dianping.com
-  
-
-  # 美团外卖
-  #- DOMAIN-SUFFIX,s3plus.meituan.net 红包页面打不开
   - DOMAIN-SUFFIX,logan-rtl.dreportmeituan.net
   - DOMAIN-KEYWORD,dreportmeituan.net
   - DOMAIN-SUFFIX,dreport.meituan.net
-  - DOMAIN-SUFFIX,marketing.waimai.meituan.com
-  - DOMAIN-SUFFIX,promotion.waimai.meituan.com
+
 # 微信相关
   - DOMAIN-KEYWORD,webank.com
   - DOMAIN-KEYWORD,welidai.com
