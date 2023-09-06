@@ -3,7 +3,8 @@ payload:
 
   # Windows更新
   - DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
-  
+  # 1688
+  - DOMAIN-SUFFIX,cbu01.alicdn.com
   # Bing
   - DOMAIN-SUFFIX,cn.bing.com
   # 游戏
