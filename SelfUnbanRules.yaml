@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,cbu01.alicdn.com
   - DOMAIN-SUFFIX,fourier.alibaba.com
   - DOMAIN-SUFFIX,ynuf.aliapp.org
+  - DOMAIN-SUFFIX,ws.mmstat.com
   # Bing
   - DOMAIN-SUFFIX,cn.bing.com
   # 游戏
@@ -32,11 +33,12 @@ payload:
   - DOMAIN-SUFFIX,promotion.waimai.meituan.com
 
   # ChinaUnicom
-  #  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaTelecom/ChinaTelecom.yaml
+  #  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaUnicom/ChinaUnicom.yaml
   - DOMAIN-SUFFIX,10010.cn
   - DOMAIN-SUFFIX,10010.com
   - DOMAIN-SUFFIX,10010.com.cn
   - DOMAIN-SUFFIX,10010.net
+  - DOMAIN-SUFFIX,114menhu.com
   - DOMAIN-SUFFIX,17wo.cn
   - DOMAIN-SUFFIX,chinaunicom.cn
   - DOMAIN-SUFFIX,chinaunicom.com
