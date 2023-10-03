@@ -1,6 +1,7 @@
 payload:
   # 自用白名单
-
+  #剪映语音识别
+  - DOMAIN-SUFFIX,i.snssdk.com
   # Windows更新
   - DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
   # 1688
