@@ -4,11 +4,8 @@ payload:
   - DOMAIN-SUFFIX,i.snssdk.com
   # Windows更新
   - DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com
-  # 1688
-   # - DOMAIN-SUFFIX,cbu01.alicdn.com
-   # - DOMAIN-SUFFIX,fourier.alibaba.com
-  #  - DOMAIN-SUFFIX,ynuf.aliapp.org
-  #  - DOMAIN-SUFFIX,ws.mmstat.com
+  # torrent种子下载网站
+  - DOMAIN-SUFFIX,linkvertise.com
   # Bing
   - DOMAIN-SUFFIX,cn.bing.com
   # 游戏
