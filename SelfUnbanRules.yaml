@@ -8,6 +8,9 @@ payload:
   - DOMAIN-SUFFIX,linkvertise.com
   # Bing
   - DOMAIN-SUFFIX,cn.bing.com
+
+  # 微商相册
+  - DOMAIN-SUFFIX,upload.qiniup.com
   # 游戏
   - DOMAIN-SUFFIX,game.brawlstarsgame.com
   - DOMAIN-KEYWORD,brawlstars
