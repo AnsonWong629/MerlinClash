@@ -25,7 +25,8 @@ payload:
 # Adobe AI
   - DOMAIN-KEYWORD,sensei
 # 自用
-  - DOMAIN-SUFFIX,demo.unlock-music.dev
+  - DOMAIN-SUFFIX,demo.unlock-music.dev #音乐解锁
+  - DOMAIN-SUFFIX,o298668.ingest.sentry.io #Arc浏览器
 # Bing相关
   - DOMAIN-SUFFIX,edge.microsoft.com
   - DOMAIN-SUFFIX,www.bingapis.com
