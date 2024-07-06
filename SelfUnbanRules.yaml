@@ -19,6 +19,8 @@ payload:
   - DOMAIN-SUFFIX,lf6-cdn-tos.bytegoofy.com
   # QQ音乐
   - DOMAIN-SUFFIX,monitor.music.qq.com 
+  - DOMAIN-SUFFIX,xs.gdt.qq.com
+  - DOMAIN-SUFFIX,pingfore.qq.com
   # 微商相册
   - DOMAIN-SUFFIX,upload.qiniup.com
   # 游戏
