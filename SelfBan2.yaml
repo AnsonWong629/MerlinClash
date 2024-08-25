@@ -1,0 +1,87 @@
+payload:
+
+# 自用黑名单
+# Chrome安全浏览屏蔽
+  - DOMAIN-SUFFIX,sb-ssl.google.com
+  - DOMAIN-SUFFIX,safebrowsing.googleapis.com
+  - DOMAIN-SUFFIX,safebrowsing.clients.google.com
+  - DOMAIN-SUFFIX,safebrowsing-cache.google.com
+# 反诈
+  - IP-CIDR,157.148.47.204/32
+# 美团检测
+  - DOMAIN-SUFFIX,data-sdk-uuid-report.dreport.meituan.net  
+  - DOMAIN-SUFFIX,appsec-mobile.meituan.com
+  - DOMAIN-SUFFIX,route-stats.d.meituan.net
+  - DOMAIN-SUFFIX,logan-rtl.dreportmeituan.net
+  - DOMAIN-KEYWORD,dreportmeituan.net
+  - DOMAIN-SUFFIX,dreport.meituan.net
+
+# 微信相关
+  - DOMAIN-KEYWORD,webank.com
+  - DOMAIN-KEYWORD,welidai.com
+  - DOMAIN-KEYWORD,360buyimgcom
+  - DOMAIN-SUFFIX,mjd.com
+  - DOMAIN-SUFFIX,fd.3.cn
+  - DOMAIN-SUFFIX,jvod.300hu.com
+  - DOMAIN-SUFFIX,bc.weixin.qq.com
+  - DOMAIN-SUFFIX,ripd.webankcdn.net
+  - DOMAIN-SUFFIX,trace.webank.com
+  - DOMAIN-SUFFIX,w.welidaimkt.com
+# Adobe检测
+  - DOMAIN-SUFFIX,crs.cr.adobe.com
+  - DOMAIN-SUFFIX,www.photoshop.com
+  - DOMAIN-SUFFIX,cc-cdn.adobe.com
+  - DOMAIN-SUFFIX,photos.adobe.io
+  - DOMAIN-SUFFIX,cc-api-data.adobe.io
+  - DOMAIN-SUFFIX,lcs-cops.adobe.io
+  - DOMAIN-SUFFIX,cai-splunk-proxy.adobe.io
+  - DOMAIN-SUFFIX,ic.adobe.io
+  - DOMAIN-SUFFIX,dyzt55url8.adobe.io
+  - DOMAIN-SUFFIX,gw8gfjbs05.adobe.io
+
+# 淘宝广告类
+
+  - DOMAIN-KEYWORD,ws-msgacs
+  - DOMAIN-KEYWORD,trade-acs
+  - DOMAIN-KEYWORD,agoo-report
+  - DOMAIN-SUFFIX,ku.m.taobao.com
+  - DOMAIN-SUFFIX,mdn.alicdn.com 
+  
+# 知乎
+  - DOMAIN,mqtt.zhihu.com
+  - DOMAIN,sugar.zhihu.com
+  - IP-CIDR,118.89.204.198/32
+# DNSBLOCK
+  - DOMAIN,dns.jd.com
+  - DOMAIN,dns.weibo.cn
+  - DOMAIN,dns.weixin.qq.com
+  - DOMAIN,dns.weixin.qq.com.cn
+  - DOMAIN,httpdns-api.aliyuncs.com
+  - DOMAIN,httpdns-sc.aliyuncs.com
+  - DOMAIN,httpdns.alicdn.com
+  - DOMAIN,httpdns.baidu.com
+  - DOMAIN,httpdns.baidubce.com
+  - DOMAIN,httpdns.bilivideo.com
+  - DOMAIN,httpdns.c.cdnhwc2.com
+  - DOMAIN,httpdns.n.netease.com
+  - DOMAIN,httpdns.push.oppomobile.com
+  - DOMAIN,httpdns.volcengineapi.com
+  - DOMAIN,httpsdns.baidu.com
+  - DOMAIN,lofter.httpdns.c.163.com
+  - DOMAIN,music.httpdns.c.163.com
+  - IP-CIDR,101.124.19.122/32
+  - IP-CIDR,103.224.222.208/32
+  - IP-CIDR,115.236.121.195/32
+  - IP-CIDR,115.236.121.51/32
+  - IP-CIDR,123.151.54.50/32
+  - IP-CIDR,186.76.76.200/32
+  - IP-CIDR,203.107.1.0/24
+  - IP-CIDR,39.97.128.148/32
+  - IP-CIDR,39.97.130.51/32
+  - IP-CIDR,42.187.182.106/32
+  - IP-CIDR,42.187.182.123/32
+  - IP-CIDR,42.187.184.154/32
+  - IP-CIDR,42.81.232.18/32
+  - IP-CIDR,59.111.239.61/32
+  - IP-CIDR,59.111.239.62/32
+
