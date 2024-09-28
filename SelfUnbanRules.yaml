@@ -1,5 +1,6 @@
 payload:
   # 自用白名单
+  - DOMAIN-SUFFIX,hifini.com
   # 饿了么会员
   - DOMAIN-SUFFIX,adashx.ut.ele.me
   # 剪映语音识别
