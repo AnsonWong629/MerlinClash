@@ -55,6 +55,9 @@ payload:
   - DOMAIN-SUFFIX,x.com 
   - DOMAIN-SUFFIX,button.us-west.host.bsky.network
   - DOMAIN-SUFFIX,bsky.social
+  - DOMAIN-SUFFIX,video.cdn.bsky.app
+  - DOMAIN-SUFFIX,cdn.bsky.app
+  - DOMAIN-SUFFIX,video.bsky.app
 # Bing相关
   - DOMAIN-SUFFIX,edge.microsoft.com
   - DOMAIN-SUFFIX,www.bingapis.com
