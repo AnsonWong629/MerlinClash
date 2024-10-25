@@ -53,6 +53,8 @@ payload:
   - DOMAIN-SUFFIX,demo.unlock-music.dev #音乐解锁
   - DOMAIN-SUFFIX,o298668.ingest.sentry.io #Arc浏览器
   - DOMAIN-SUFFIX,x.com 
+  - DOMAIN-SUFFIX,button.us-west.host.bsky.network
+  - DOMAIN-SUFFIX,bsky.social
 # Bing相关
   - DOMAIN-SUFFIX,edge.microsoft.com
   - DOMAIN-SUFFIX,www.bingapis.com
