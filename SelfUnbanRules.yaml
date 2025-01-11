@@ -2,6 +2,7 @@ payload:
   # 自用白名单
   - DOMAIN-SUFFIX,hifini.com
   - DOMAIN-SUFFIX,castatic.fengkongcloud.com #验证码无法显示
+  - DOMAIN-SUFFIX,captcha.fengkongcloud.com #验证码无法显示
   # 饿了么会员
   - DOMAIN-SUFFIX,adashx.ut.ele.me
   # 剪映语音识别
