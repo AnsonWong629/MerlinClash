@@ -3590,7 +3590,7 @@ payload:
   - DOMAIN-SUFFIX,c3.gostats.cn
   - DOMAIN-SUFFIX,c8.wangdq.com
   - DOMAIN-SUFFIX,cache.xw126.com
-  - DOMAIN-SUFFIX,castatic.fengkongcloud.com
+#验证码无法显示  - DOMAIN-SUFFIX,castatic.fengkongcloud.com 
   - DOMAIN-SUFFIX,cc.365yigou.cn
   - DOMAIN-SUFFIX,cd.dabansuan.cn
   - DOMAIN-SUFFIX,cdn.0i-i0.com
