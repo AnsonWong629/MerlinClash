@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,sub.id9.cc
   - DOMAIN-SUFFIX,as.saururus.ink
   - DOMAIN-SUFFIX,glados.rocks
+  - DOMAIN-SUFFIX,gitbook.io #https://mcreadme.gitbook.io/mc/quick Merlin Clash手册
 # Adobe AI
   - DOMAIN-KEYWORD,sensei
   - DOMAIN-SUFFIX,firefly.adobe.io
