@@ -18,6 +18,7 @@ payload:
 
   - DOMAIN-SUFFIX,spider-tracker.xiaohongshu.com
   - DOMAIN-SUFFIX,crash.xiaohongshu.com
+  - DOMAIN-SUFFIX,ali-web-player-tracker.biliapi.net
 
 # 微信相关
   - DOMAIN-KEYWORD,webank.com
