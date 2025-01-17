@@ -16,6 +16,9 @@ payload:
   - DOMAIN-KEYWORD,dreportmeituan.net
   - DOMAIN-SUFFIX,dreport.meituan.net
 
+  - DOMAIN-SUFFIX,spider-tracker.xiaohongshu.com
+  - DOMAIN-SUFFIX,crash.xiaohongshu.com
+
 # 微信相关
   - DOMAIN-KEYWORD,webank.com
   - DOMAIN-KEYWORD,welidai.com
