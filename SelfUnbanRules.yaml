@@ -50,6 +50,9 @@ payload:
   - DOMAIN-SUFFIX,promotion.waimai.meituan.com
   - DOMAIN-SUFFIX,p10.d.meituan.net
   - DOMAIN-SUFFIX,p14.d.meituan.net
+  - DOMAIN-SUFFIX,o3.d.meituan.net
+  - DOMAIN-SUFFIX,o1.d.meituan.net
+
 
   # ChinaUnicom
   #  https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaUnicom/ChinaUnicom.yaml
