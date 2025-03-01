@@ -10,7 +10,7 @@ payload:
   - IP-CIDR,157.148.47.204/32
 # 美团检测
   - DOMAIN-SUFFIX,data-sdk-uuid-report.dreport.meituan.net  
-  - DOMAIN-SUFFIX,appsec-mobile.meituan.com
+  #- DOMAIN-SUFFIX,appsec-mobile.meituan.com 小蚕
   - DOMAIN-SUFFIX,route-stats.d.meituan.net
   - DOMAIN-SUFFIX,logan-rtl.dreportmeituan.net
   - DOMAIN-KEYWORD,dreportmeituan.net
