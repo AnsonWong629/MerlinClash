@@ -53,7 +53,7 @@ payload:
   - DOMAIN-SUFFIX,o3.d.meituan.net
   - DOMAIN-SUFFIX,o1.d.meituan.net
   - DOMAIN-SUFFIX,fp-it.fengkongcloud.com  #小蚕
-  - DOMAIN-SUFFIX,prism-report-web.dreport.meituan.net  #小蚕
+  - DOMAIN,prism-report-web.dreport.meituan.net  #小蚕
 
 
   # ChinaUnicom
