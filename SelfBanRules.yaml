@@ -50,6 +50,9 @@ payload:
   - DOMAIN-KEYWORD,agoo-report
   - DOMAIN-SUFFIX,ku.m.taobao.com
   - DOMAIN-SUFFIX,mdn.alicdn.com 
+
+# 京东广告类 
+  - DOMAIN-SUFFIX,jddebug.com
   
 # 知乎
   - DOMAIN,mqtt.zhihu.com
