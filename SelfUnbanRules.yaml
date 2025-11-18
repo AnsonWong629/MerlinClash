@@ -9,6 +9,7 @@ payload:
   - DOMAIN,sns-video-hs.xhscdn.com #小红书 测试
   - DOMAIN-SUFFIX,alidns.com
   - DOMAIN-SUFFIX,doh.pub
+  - DOMAIN-SUFFIX,acs.m.taobao.com #阿里系app登录
   
   # 饿了么会员
   - DOMAIN-SUFFIX,adashx.ut.ele.me
