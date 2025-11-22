@@ -10,7 +10,18 @@ payload:
   - DOMAIN-SUFFIX,alidns.com
   - DOMAIN-SUFFIX,doh.pub
   - DOMAIN-SUFFIX,acs.m.taobao.com #阿里系app登录
-  - DOMAIN-SUFFIX,tls-goofish.dingtalk.com #闲鱼测试
+  - DOMAIN-SUFFIX,tls-goofish.dingtalk.com #闲鱼对话框
+  
+  # Kspeed istoreos自带加速
+  - DOMAIN-SUFFIX,d4ctech.com
+  - DOMAIN-SUFFIX,kspeeder.com
+  - DOMAIN-SUFFIX,1ms.run
+  - DOMAIN-SUFFIX,koolcenter.com
+  - DOMAIN-SUFFIX,istoreos.com
+  - DOMAIN-SUFFIX,1panel.live
+  - DOMAIN-SUFFIX,m.daocloud.io
+
+  
   
   # 饿了么会员
   - DOMAIN-SUFFIX,adashx.ut.ele.me
