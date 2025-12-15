@@ -23,7 +23,13 @@ payload:
   - DOMAIN-SUFFIX,1panel.live
   - DOMAIN-SUFFIX,m.daocloud.io
 
-  
+  - IP-CIDR,8.134.152.191/32,DIRECT,no-resolve
+  - IP-CIDR,8.134.107.77/32,DIRECT,no-resolve
+  - IP-CIDR,8.134.250.119/32,DIRECT,no-resolve
+  - IP-CIDR,132.232.133.234/32,DIRECT,no-resolve
+  - IP-CIDR,139.155.145.118/32,DIRECT,no-resolve
+  - IP-CIDR,8.138.251.121/32,DIRECT,no-resolve
+  - IP-CIDR,8.138.59.17/32,DIRECT,no-resolve
   
   # 饿了么会员
   - DOMAIN-SUFFIX,adashx.ut.ele.me
