@@ -337,7 +337,7 @@ payload:
   - DOMAIN,api.wapa.taobao.com
   - DOMAIN,api.waptest.taobao.com
   - DOMAIN,api.yuedu.iqiyi.com
-  - DOMAIN,apikey.map.qq.com
+  #- DOMAIN,apikey.map.qq.com #麦当劳、肯德基app无法定位
   - DOMAIN,app-measurement.com
   - DOMAIN,app.miui.com
   - DOMAIN,appcloud2.in.zhihu.com
@@ -608,7 +608,7 @@ payload:
   - DOMAIN,laz-dorangesource.alicdn.com.w.cdngslb.com
   - DOMAIN,lbg-eum-proxy.appdynamics.com
   - DOMAIN,lbgs.hismarttv.com
-  - DOMAIN,lbs.map.qq.com
+  #- DOMAIN,lbs.map.qq.com
   - DOMAIN,lgad.cjpowercast.com.edgesuite.net
   - DOMAIN,log-58144bf0.we-stats.com
   - DOMAIN,log-api.pangolin-sdk-toutiao-b.com
