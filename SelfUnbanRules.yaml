@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,tls-goofish.dingtalk.com #闲鱼对话框
   - DOMAIN-SUFFIX,itop.qq.com #qq飞车登录
   - DOMAIN-SUFFIX,hc.tdm.qq.com #qq飞车登录
+  - DOMAIN-SUFFIX,yiban.io #壹伴公众号
   
   # Kspeed istoreos自带加速
   - DOMAIN-SUFFIX,d4ctech.com
