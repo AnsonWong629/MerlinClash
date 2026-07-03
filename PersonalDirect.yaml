@@ -3,7 +3,7 @@
 # 由 ~/Developer/home-network/openclash/generator.py 渲染。
 # 推送到 AnsonWong629/MerlinClash 仓库根目录。
 #
-# 生成时间: 2026-07-03T22:33:36
+# 生成时间: 2026-07-03T23:07:45
 # 修改方式: 改 generator.py PERSONAL_DIRECT_CATEGORIES → 跑 generator.py --print-pd
 payload:
   # --- Ansencen personal ---
@@ -47,6 +47,7 @@ payload:
   - DOMAIN-SUFFIX,x.com,🇺🇳 国外网站
   - DOMAIN-SUFFIX,twitter.com,🇺🇳 国外网站
   - DOMAIN-SUFFIX,t.co,🇺🇳 国外网站
+  - DOMAIN-SUFFIX,paofu.cloud,🇺🇳 国外网站
   # --- Google AI services ---
   # Gemini / Bard / NotebookLM 等 Google AI 工具
   - DOMAIN-SUFFIX,ai.google.dev,🤖 AI
