@@ -1,9 +1,9 @@
 # PersonalDirect.yaml
-# 单一文件: ansencen 全部自定义规则（含安全/兜底）。
+# 单一文件: ansencen 全部自定义规则 (含安全/兜底)。
 # 由 ~/Developer/home-network/openclash/generator.py 渲染。
 # 推送到 AnsonWong629/MerlinClash 仓库根目录。
 #
-# 生成时间: 2026-07-03T23:07:45
+# 生成时间: 2026-07-04T00:43:51
 # 修改方式: 改 generator.py PERSONAL_DIRECT_CATEGORIES → 跑 generator.py --print-pd
 payload:
   # --- Ansencen personal ---
@@ -44,9 +44,9 @@ payload:
   - DOMAIN-SUFFIX,freemodel.dev,DIRECT
   - DOMAIN-SUFFIX,dlied1.cdntips.net,DIRECT
   - DOMAIN-SUFFIX,stripe.com,🇺🇳 国外网站
-  - DOMAIN-SUFFIX,x.com,🇺🇳 国外网站
-  - DOMAIN-SUFFIX,twitter.com,🇺🇳 国外网站
-  - DOMAIN-SUFFIX,t.co,🇺🇳 国外网站
+  - DOMAIN-SUFFIX,x.com,DIRECT
+  - DOMAIN-SUFFIX,twitter.com,DIRECT
+  - DOMAIN-SUFFIX,t.co,DIRECT
   - DOMAIN-SUFFIX,paofu.cloud,🇺🇳 国外网站
   # --- Google AI services ---
   # Gemini / Bard / NotebookLM 等 Google AI 工具
