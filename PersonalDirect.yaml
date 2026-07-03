@@ -1,0 +1,66 @@
+# PersonalDirect.yaml
+# 单一文件: ansencen 全部自定义规则（含安全/兜底）。
+# 由 ~/Developer/home-network/openclash/generator.py 渲染。
+# 推送到 AnsonWong629/MerlinClash 仓库根目录。
+#
+# 生成时间: 2026-07-03T22:33:36
+# 修改方式: 改 generator.py PERSONAL_DIRECT_CATEGORIES → 跑 generator.py --print-pd
+payload:
+  # --- Ansencen personal ---
+  # ansencen 个人服务 / 自部署 worker / 内部 IP
+  - IP-CIDR,154.3.33.76/32,DIRECT
+  - DOMAIN,edt.ansencen.top,DIRECT
+  - DOMAIN-SUFFIX,ansencen.workers.dev,DIRECT
+  - IP-CIDR,104.21.40.166/32,DIRECT
+  - DOMAIN-SUFFIX,z.ai,DIRECT
+  - DOMAIN-SUFFIX,studio.zcode-ai.com,DIRECT
+  - IP-CIDR,8.134.107.77/32,DIRECT,no-resolve
+  - IP-CIDR,8.138.94.132/32,DIRECT,no-resolve
+  - IP-CIDR,192.168.31.0/24,DIRECT,no-resolve
+  # --- Tailscale (NAT traversal) ---
+  # Tailscale 控制/中继域名 + DERP IP 段
+  - DOMAIN-SUFFIX,tailscale.com,DIRECT
+  - DOMAIN-SUFFIX,tailscale.io,DIRECT
+  - DOMAIN-SUFFIX,derpmap.tailscale.com,DIRECT
+  - IP-CIDR,188.114.98.48/32,DIRECT
+  - IP-CIDR,162.159.0.0/16,DIRECT
+  # --- Cloudflare (Pages + Tunnel) ---
+  # Cloudflare Pages/Tunnel 自部署域名
+  - DOMAIN-SUFFIX,pages.dev,DIRECT
+  - DOMAIN-SUFFIX,argotunnel.com,DIRECT
+  # --- DERP / NTP ports ---
+  # Tailscale DERP 端口 + NTP 必须直连
+  - DST-PORT,41641,DIRECT
+  - DST-PORT,41666,DIRECT
+  - DST-PORT,41642,DIRECT
+  - DST-PORT,3478,DIRECT
+  - DST-PORT,9993,DIRECT
+  - DST-PORT,123,DIRECT
+  # --- Finance / personal services ---
+  # 金融 + 个人常用
+  - DOMAIN-SUFFIX,eastmoney.com,DIRECT
+  - DOMAIN-SUFFIX,xueqiu.com,DIRECT
+  - DOMAIN-SUFFIX,ouo.io,DIRECT
+  - DOMAIN-SUFFIX,freemodel.dev,DIRECT
+  - DOMAIN-SUFFIX,dlied1.cdntips.net,DIRECT
+  - DOMAIN-SUFFIX,stripe.com,🇺🇳 国外网站
+  - DOMAIN-SUFFIX,x.com,🇺🇳 国外网站
+  - DOMAIN-SUFFIX,twitter.com,🇺🇳 国外网站
+  - DOMAIN-SUFFIX,t.co,🇺🇳 国外网站
+  # --- Google AI services ---
+  # Gemini / Bard / NotebookLM 等 Google AI 工具
+  - DOMAIN-SUFFIX,ai.google.dev,🤖 AI
+  - DOMAIN-SUFFIX,aistudio.google.com,🤖 AI
+  - DOMAIN-SUFFIX,makersuite.google.com,🤖 AI
+  - DOMAIN-SUFFIX,bard.google.com,🤖 AI
+  - DOMAIN-SUFFIX,gemini.google.com,🤖 AI
+  - DOMAIN-SUFFIX,labs.google.com,🤖 AI
+  - DOMAIN-SUFFIX,notebooklm.google.com,🤖 AI
+  # --- SECURITY-CRITICAL (DO NOT REMOVE) ---
+  # 2026-07-01 漏洞修复: 阻止 dns.google / cloudflare-dns.com 通过 8.8.8.8/8.8.4.4 直连泄露。
+  # 详细见 ~/Developer/home-network/openclash/openclash_setup.md
+  - IP-CIDR,8.8.8.8/32,REJECT,no-resolve
+  - IP-CIDR,8.8.4.4/32,REJECT,no-resolve
+  # --- WeChat ASN (Tencent) ---
+  # 微信 / QQ / Tencent 全部走直连
+  - IP-ASN,132203,DIRECT,no-resolve
